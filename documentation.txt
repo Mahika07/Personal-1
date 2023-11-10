@@ -1,0 +1,6 @@
+In the contact section - contact form
+To recieve email at your mail id just replace 
+action="https://formsubmit.co/your@gmail.com"
+instead of your@gamil.com write your mail id.
+then send the email and verify mail will come to your mail id just verify it and then you will recieve all mails on this mail id.
+ 
